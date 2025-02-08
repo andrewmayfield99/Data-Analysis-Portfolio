@@ -1,2 +1,5 @@
 # Data-Analysis-Portfolio
-This is a compilation of all my data analysis projects .
+This is an ongoing portfolio that contains projects developed for academic and professional purposes.
+
+| Project | Description | Completion Date |
+| :--- | :---: | :---: |
